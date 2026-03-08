@@ -120,7 +120,7 @@ This is like "FLOPS for intelligence"—a new way to measure AI progress.
 | 4 | 82 | 1.55 GB | 0.45 | ✅ Optimal |
 | 6 | 79 | 1.60 GB | 0.41 | ❌ Declining |
 
-### NVIDIA A100 (80GB)
+### NVIDIA A100 (40GB)
 | Agents | Insights | Memory/Agent | USIM | Status |
 |--------|----------|--------------|------|--------|
 | 1 | 24 | 1.54 GB | 0.22 | ✅ Fine |
@@ -151,8 +151,7 @@ This is the "too many cooks" effect for AI swarms. Beyond this threshold, agents
 | **T4** | 16GB | 2-3 agents | Single GPU |
 | **RTX6000** | 24GB | 3-4 agents | Single GPU |
 | **A30** | 24GB | 4-6 agents | Single GPU |
-| **A100** | 80GB | 6-8 agents | Single GPU |
-| **H100** | 80GB | 8-12 agents | Single GPU |
+| **A100** | 40GB | 6-8 agents | Single GPU |
 | **Beyond** | - | **> threshold** | **🚫 MUST go distributed** |
 
 ### Mathematical Definition
@@ -416,7 +415,7 @@ Novel contributions:
 Detected GPUs:
   [0] NVIDIA A30 (24.0 GB) - Compute Units: 0.50 A100-equiv
   [1] NVIDIA RTX6000 (24.0 GB) - Compute Units: 0.40 A100-equiv
-  [2] NVIDIA A100 (80.0 GB) - Compute Units: 1.00 A100-equiv
+  [2] NVIDIA A100 (40.0 GB) - Compute Units: 1.00 A100-equiv
 
 Select GPU to analyze (0-2): 0
 
@@ -672,8 +671,7 @@ A: Yes, MIT license allows commercial use.
 
 - **GitHub Issues**: For bugs and feature requests
 - **Discussions**: For questions and ideas
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-- **Email**: your.email@example.com
+- **Email**: sbalija@ucsd.edu
 
 ---
 
