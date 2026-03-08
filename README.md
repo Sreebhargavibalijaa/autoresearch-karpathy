@@ -1,5 +1,3 @@
-# README.md
-
 ---
 
 # 🧠 Universal Swarm Intelligence Metric (USIM) Framework
