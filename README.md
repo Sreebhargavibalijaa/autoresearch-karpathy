@@ -450,6 +450,7 @@ Select GPU to analyze (0-2): 0
 ================================================================================
 Formula: USIM = (Kd × Sc × Ee × Ef) / (C × √N)
 ================================================================================
+<img width="6241" height="9612" alt="karpathy_complete_analysis" src="https://github.com/user-attachments/assets/613d050b-5cf3-4f4a-8a91-aaba61bb6f64" />
 
 🔬 HARDWARE AGNOSTIC VALIDATION:
 ----------------------------------------
