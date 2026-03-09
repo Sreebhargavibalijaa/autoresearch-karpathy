@@ -24,6 +24,7 @@ This framework answers that question by introducing the **Universal Swarm Intell
 **The core discovery:** Every GPU has a hard limit of **4-6 agents** before performance collapses. Beyond this "Karpathy Threshold," you MUST move to distributed computing.
 
 ---
+<img width="6241" height="9612" alt="karpathy_complete_analysis" src="https://github.com/user-attachments/assets/59c363f0-df62-4081-93d8-a6ba84305db0" />
 
 ## 🎯 Key Novel Contributions
 
